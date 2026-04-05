@@ -26,7 +26,7 @@ window.config(bg="#2C3E50")
 # Label untuk judul
 label_judul = tk.Label(
     window,
-    text="JAM DIGITAL",
+    text="JAM-Jaman",
     font=("Arial", 16, "bold"),
     bg="#2C3E50",
     fg="#ECF0F1"
@@ -54,7 +54,7 @@ label_tanggal.pack(pady=10)
 # Label untuk footer
 label_footer = tk.Label(
     window,
-    text="Dibuat dengan Python & Tkinter",
+    text="Waktu indonesia bagian barat (WIB)",
     font=("Arial", 10),
     bg="#2C3E50",
     fg="#95A5A6"
